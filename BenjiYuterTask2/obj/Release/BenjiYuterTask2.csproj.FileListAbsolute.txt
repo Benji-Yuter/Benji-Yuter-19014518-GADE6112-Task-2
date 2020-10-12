@@ -1,0 +1,11 @@
+C:\Users\SamuelK\Desktop\BenjiYuter\BenjiYuterTask2\BenjiYuterTask2\bin\Release\BenjiYuterTask2.exe.config
+C:\Users\SamuelK\Desktop\BenjiYuter\BenjiYuterTask2\BenjiYuterTask2\bin\Release\BenjiYuterTask2.exe
+C:\Users\SamuelK\Desktop\BenjiYuter\BenjiYuterTask2\BenjiYuterTask2\bin\Release\BenjiYuterTask2.pdb
+C:\Users\SamuelK\Desktop\BenjiYuter\BenjiYuterTask2\BenjiYuterTask2\obj\Release\BenjiYuterTask2.csprojAssemblyReference.cache
+C:\Users\SamuelK\Desktop\BenjiYuter\BenjiYuterTask2\BenjiYuterTask2\obj\Release\TaskTwoNamespace.Form1.resources
+C:\Users\SamuelK\Desktop\BenjiYuter\BenjiYuterTask2\BenjiYuterTask2\obj\Release\TaskTwoNamespace.PlayGame.resources
+C:\Users\SamuelK\Desktop\BenjiYuter\BenjiYuterTask2\BenjiYuterTask2\obj\Release\TaskTwoNamespace.Properties.Resources.resources
+C:\Users\SamuelK\Desktop\BenjiYuter\BenjiYuterTask2\BenjiYuterTask2\obj\Release\BenjiYuterTask2.csproj.GenerateResource.cache
+C:\Users\SamuelK\Desktop\BenjiYuter\BenjiYuterTask2\BenjiYuterTask2\obj\Release\BenjiYuterTask2.csproj.CoreCompileInputs.cache
+C:\Users\SamuelK\Desktop\BenjiYuter\BenjiYuterTask2\BenjiYuterTask2\obj\Release\BenjiYuterTask2.exe
+C:\Users\SamuelK\Desktop\BenjiYuter\BenjiYuterTask2\BenjiYuterTask2\obj\Release\BenjiYuterTask2.pdb
